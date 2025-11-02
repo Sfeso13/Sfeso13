@@ -1,8 +1,8 @@
-<img src="" alt="cool monitor animation">
+<img src="https://github.com/Sfeso13/Sfeso13/blob/main/assets/fef41f9945b81122f30e216d02efd0a7.gif" alt="cool monitor animation">
 
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hey! I'm Youssef Hossni - Computer Science & Tech Enthusiast </h1>
 
-###
+### **Working with these 👨🏽‍💻**
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
